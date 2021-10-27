@@ -1,5 +1,5 @@
 # IFLurking
-Script designed to indefinately lurk on people's profiles to troll them
+Script designed to indefinately lurk on people's iFunny profiles to troll them
 
 # Instructions for noobs
 
